@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohitpujari1144
+- 👋 Hi, I’m Rohit Pujari
 - 👀 I’m interested in development
 - 🌱 I’m currently learning Website Development
 
