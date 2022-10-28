@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Pujari
-- 👀 I’m interested in development
-- 🌱 I’m currently learning Website Development
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me email rohit10231@gmail.com
 
 <!---
