@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rohit Pujari
-- 👀 I’m interested in MERN Stack Web Development
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m a Full Stack Web Developer
 - 📫 Reach me at rohit10231@gmail.com
 
 <!---
