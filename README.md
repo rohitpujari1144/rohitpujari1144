@@ -2,7 +2,7 @@
 - 👀 I’m a Full Stack Web Developer
 - 📫 Reach me at rohit10231@gmail.com
 - https://rohit-pujari-portfolio.netlify.app/
-- React.js | Express.js | Node.js | MongoDB
+- Full Stack Web Developer | HTML5 | CSS3 | JavaScript | Bootstrap | React.js | Express.js | Node.js | MongoDB
 
 <!---
 rohitpujari1144/rohitpujari1144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
