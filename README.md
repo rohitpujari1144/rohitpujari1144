@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Pujari
-- 👀 I’m a Full Stack Web Developer
+- 👀 I’m a Software Engineer Trainee
 - 📫 Reach me at rohit10231@gmail.com
 - https://rohit-pujari-portfolio.netlify.app/
 - Full Stack Web Developer | HTML5 | CSS3 | JavaScript | Bootstrap | React.js | Express.js | Node.js | MongoDB
