@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Pujari
 - 👀 I’m a Software Engineer Trainee
-- 📫 Reach me at rohit10231@gmail.com
+- 👨‍💻 Reach me at rohit10231@gmail.com
 - https://rohit-pujari-portfolio.netlify.app/
 - MERN Stack | HTML5 | CSS3 | JavaScript | Bootstrap | React.js | Express.js | Node.js | NestJS | Node-RED | MongoDB | MySQL | SQL Server Management Studio (SSMS) | Azure Data Studio
 
